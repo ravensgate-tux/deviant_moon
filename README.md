@@ -65,7 +65,6 @@
 ## 参考文献・リンク
 
 - [公式サイト：Deviant Moon Tarot](https://www.deviantmoon.com)
-- [作者インタビュー・制作ノートなど（予定）](./notes/...)
 
 ---
 
