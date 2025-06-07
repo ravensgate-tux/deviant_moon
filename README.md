@@ -22,7 +22,7 @@
 
 | No | カード名 | 投稿日 | 投稿リンク | 画像 |
 |----|----------|--------|-------------|------|
-| 0  | [愚者（The Fool）](#愚者the-fool) | 2025/06/08 | [Xで見る](0_Fool.png | ![Fool](0_Fool.jpg) |
+| 0  | [愚者（The Fool）](#愚者the-fool) | 2025/06/08 | [Xで見る](0_Fool.png) | ![Fool](0_Fool.jpg) |
 | 1  | [魔術師（The Magician）](#魔術師the-magician) | 2025/06/09 | [Xで見る](1_magician.png) | ![Magician](.1_,agician.jpg) |
 | …  | ...      | ...    | ...         | ...  |
 
