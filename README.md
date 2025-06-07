@@ -22,8 +22,8 @@
 
 | No | カード名 | 投稿日 | 投稿リンク | 画像 |
 |----|----------|--------|-------------|------|
-| 0  | [愚者（The Fool）](#愚者the-fool) | 2025/06/08 | [Xの投稿を見る](0_Fool.png) | <img src="0_fool_card.jpg" width="200">  |
-| 1  | [魔術師（The Magician）](#魔術師the-magician) | 2025/06/09 | [Xの投稿を見る](1_magician.png) | ![Magician](1_magician.jpg) |
+| 0  | [愚者（The Fool）](#愚者the-fool) | 2025/06/08 | [Xの投稿を見る](0_Fool.png) | <img src="0_fool_card.jpg" width="100">  |
+| 1  | [魔術師（The Magician）](#魔術師the-magician) | 2025/06/09 | [Xの投稿を見る](1_magician.png) |  <img src="0_fool_card.jpg" width="100">  |
 | …  | ...      | ...    | ...         | ...  |
 
 ---
@@ -42,7 +42,7 @@
 作者が幼少期から抱いていた幻視や妄想が基となり、ヴェネツィアの道化師に触発された初期スケッチを起点に、20代でこのキャラクター像が完成した。
 
 **画像：**  
-<img src="0_fool_card.jpg" width="200">
+<img src="0_fool_card.jpg" width="100">
 
 ---
 
@@ -58,7 +58,7 @@
 1982年に描かれた抽象的な神話画が原型。ヴェネツィアのファッションに影響を受けた意匠が、4スーツの象徴を扱う複腕デザインに進化した。
 
 **画像：**  
-![The Magician](1_Magician.png)
+<img src="0_fool_card.jpg" width="100">
 
 ---
 
