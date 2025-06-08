@@ -20,13 +20,13 @@
 
 ## カード一覧（随時更新）
 
-| No | カード名 | 投稿日 | 投稿リンク | 画像 |
-|----|----------|--------|-------------|------|
-| 0  | [愚者（The Fool）](#愚者the-fool) | 2025/06/08 | [Xの投稿を見る](0_Fool.png) | <img src="0_fool_card.jpg" width="100">  |
-| 1  | [魔術師（The Magician）](#魔術師the-magician) | 2025/06/09 | [Xの投稿を見る](1_magician2.png) |  <img src="1_magician_card.jpg" width="100">  |
-| 2  | [高位の女司祭（The High Priestess）](#高位の女司祭the-high-priestess) | 2025/06/10 | [Xの投稿を見る](2_high_priestess.png) |  <img src="2_high_priestess_card.jpg" width="100">  |
-| 2  | [女帝（The Empress）](#女帝the-empress) | 2025/06/11 | [Xの投稿を見る](3_empress.png) |  <img src="3_empress.jpg" width="100">  |
-| …  | ...      | ...    | ...         | ...  |
+| No | カード名 | 投稿日 | 画像 |
+|----|----------|--------|------|
+| 0  | [愚者（The Fool）](#愚者the-fool) | 2025/06/08 | <img src="0_fool_card.jpg" width="100">  |
+| 1  | [魔術師（The Magician）](#魔術師the-magician) | 2025/06/09 | <img src="1_magician_card.jpg" width="100">  |
+| 2  | [高位の女司祭（The High Priestess）](#高位の女司祭the-high-priestess) | 2025/06/10 | <img src="2_high_priestess_card.jpg" width="100">  |
+| 2  | [女帝（The Empress）](#女帝the-empress) | 2025/06/11 | <img src="3_empress_card.jpg" width="100">  |
+| …  | ...      | ...    |...  |
 ---
 
 ## 各カードの考察
