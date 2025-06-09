@@ -26,7 +26,8 @@
 | 1  | [魔術師（The Magician）](#魔術師the-magician) | 2025/06/09 | <img src="1_magician_card.jpg" width="100">  |
 | 2  | [高位の女司祭（The High Priestess）](#高位の女司祭the-high-priestess) | 2025/06/10 | <img src="2_high_priestess_card.jpg" width="100">  |
 | 3  | [女帝（The Empress）](#女帝the-empress) | 2025/06/11 | <img src="3_empress_card.jpg" width="100">  |
-| 3  | [皇帝（The Emperor）](#横堤the-emperor) | 2025/06/12 | <img src="4_emperor_card.jpg" width="100">  |
+| 4  | [皇帝（The Emperor）](#横堤the-emperor) | 2025/06/12 | <img src="4_emperor_card.jpg" width="100">  |
+| 5  | [法皇（The Hierophant）](#法皇the-hierophant) | 2025/06/13 | <img src="5_hierophant_card.jpg" width="100">  |
 | …  | ...      | ...    |...  |
 ---
 
@@ -124,6 +125,24 @@
 
 **画像：**  
 <img src="4_emperor_card.jpg" width="100">
+
+---
+
+### 法皇（The Hierophant）
+
+かつては精神的啓示を求めて旅立った彼も、今やその教義に疑念を抱き、内心では信仰の維持に苦悩している。信徒の心を恐れで縛り、ポケットに入った「脳のない人形」のように従順さを強いる法王は、自由意志ではなく「安心感という幻想」によって権威を保っている。膝を固く閉ざし、翼は石のように硬化しており、それは性や自由に対する抑圧的な態度の象徴である。
+
+**正位置：**  
+正位置では、旧来の信念や習慣を見直す時が来たことを示唆する。誰かの教義に盲従するのではなく、自らの思考で真理を探り、自分だけの信仰や実践を育てよというメッセージ。
+
+**逆位置：**  
+逆位置では、伝統や習慣からの離脱に対する恐れや、不安が精神の自由を妨げている状態を表す。悪習慣が根深く、自ら変化を起こす力を見失っているかもしれない。
+
+**創作背景：**  
+このカードに描かれたキャラクターは、作者が16歳の頃、授業中に落書きした宗教者たちのスケッチから着想を得ている。信仰というテーマに対する懐疑の芽は、当時からすでに心に宿っていたのかもしれない。
+
+**画像：**  
+<img src="5_hierophant_card.jpg" width="100">
 
 ---
 
